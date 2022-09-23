@@ -1,6 +1,6 @@
 
 import random
-array = ["Miran","Joseph","Liam","Jeev","Mihit","Vihaan","Ishaan","Kris"]
+array = ["Miran","Joseph","Liam","Jeev","Mihit","Vihaan","Eshaan","Krishiv"]
 
 random.shuffle(array)
 
