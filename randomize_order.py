@@ -1,6 +1,6 @@
 
 import random
-array = ["Miran","Joseph","Liam","Jeev","Mihit","Vihaan","Eshaan","Krishiv"]
+array = ["Miran","Joseph","Liam","Jeev","Mihit","Vihaan","Alexander","Flynn","Monish"]
 
 random.shuffle(array)
 
@@ -12,3 +12,4 @@ print("Fifth player",array[4])
 print("Sixth player",array[5])
 print("Seventh player",array[6])
 print("Eighth player",array[7])
+print("Ninth player",array[8])
